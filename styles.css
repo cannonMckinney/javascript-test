@@ -1,0 +1,7 @@
+div > div {
+  text-align: center;
+}
+div > button {
+  width: 30%;
+  text-align: center;
+}
